@@ -23,7 +23,7 @@ for (let i = n; i >= 1; i--) {
 }
 
 
-//inverted even only floyd' trangle
+//inverted even number only floyd' trangle
 let prompt3 = require('prompt-sync')();
 let n3 = Number(prompt("Enter a number:"));
 let num3 = 2;
